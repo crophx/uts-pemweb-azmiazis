@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE php>
+<php lang="en">
   <head>
     <meta charset="utf-8" />
     <meta
@@ -53,31 +53,31 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ms-auto">
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="index.html"
+              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="index.php"
                 >Beranda</a
               >
             </li>
             <li class="nav-item mx-0 mx-lg-1">
               <a
                 class="nav-link py-3 px-0 px-lg-3 rounded"
-                href="portfolio.html"
+                href="portfolio.php"
                 >Portofolio</a
               >
             </li>
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="tentang.html"
+              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="tentang.php"
                 >Tentang</a
               >
             </li>
             <li class="nav-item mx-0 mx-lg-1">
-              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="kontak.html"
+              <a class="nav-link py-3 px-0 px-lg-3 rounded" href="kontak.php"
                 >Kontak</a
               >
             </li>
             <li class="nav-item mx-0 mx-lg-1">
               <a
                 class="nav-link py-3 px-0 px-lg-3 rounded"
-                href="pendidikan.html"
+                href="pendidikan.php"
                 >Pendidikan</a
               >
             </li>
@@ -139,7 +139,7 @@
         </div>
         <!-- Deskripsi Section Button-->
         <div class="text-center mt-4">
-          <a class="btn btn-xl btn-outline-warning" href="portfolio.html">
+          <a class="btn btn-xl btn-outline-warning" href="portfolio.php">
             <i class="fas fa-meh me-2"></i>
             klik untuk halaman berikutnya
           </a>
@@ -209,4 +209,4 @@
       </div>
     </div>
   </body>
-</html>
+</php>
